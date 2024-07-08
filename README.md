@@ -1,18 +1,17 @@
-**emmanuel10101/emmanuel10101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hey 👋, I'm Emmanuel!</h1>
 <h3 align="center">An excited computer science student at University of Maryland</h3>
 
-- 🌱 I’m currently learning **data Science, Web 3.0, and backend development**
+- 🌱 I’m currently learning: **data Science, Web 3.0, and backend development**
 
-- 👀 Interested in **neural networks and machine learning**
+- 👀 Interested in: **neural networks and machine learning**
 
-- 🤝 I’m looking for help with **cloud computing**
+- 🤝 I’m looking for help with: **cloud computing**
 
-- 🤖 Experienced with **Python, Java, and Go lang**
+- 🤖 Experienced with: **Python, Java, and Go lang**
 
-- 📫 How to reach me **emm.emmanuel.michael@gmail.com**
+- 📫 How to reach me: **emm.emmanuel.michael@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1CjmHN2nQO86_CGk38MDFLR9OXQBrjZj8jJCsx-OJ5rs/edit](https://docs.google.com/document/d/1CjmHN2nQO86_CGk38MDFLR9OXQBrjZj8jJCsx-OJ5rs/edit)
+- 📄 Know about my experiences: [https://docs.google.com/document/d/1CjmHN2nQO86_CGk38MDFLR9OXQBrjZj8jJCsx-OJ5rs/edit](https://docs.google.com/document/d/1CjmHN2nQO86_CGk38MDFLR9OXQBrjZj8jJCsx-OJ5rs/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
