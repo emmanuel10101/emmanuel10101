@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Emmanuel!</h1>
-<h3 align="center">An excited computer science student at University of Maryland</h3>
+<h3 align="center">A computer science student at University of Maryland</h3>
 
 - 🌱 I’m currently learning: **data science, Web 3.0, and backend development**
 - 👀 Interested in: **neural networks and machine learning**
