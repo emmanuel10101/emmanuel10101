@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: **data science, Web 3.0, and backend development**
 - 👀 Interested in: **neural networks and machine learning**
 - 🤝 I’m looking for help with: **cloud computing**
-- 🤖 Experienced with: **Python, Java, and C++**
+- 🤖 Experienced with: **Python, Java, and C/C++**
 - 📫 How to reach me: **emm.emmanuel.michael@gmail.com**
 - 📄 Know about my experiences: [https://docs.google.com/document/d/1CjmHN2nQO86_CGk38MDFLR9OXQBrjZj8jJCsx-OJ5rs/edit](https://docs.google.com/document/d/1CjmHN2nQO86_CGk38MDFLR9OXQBrjZj8jJCsx-OJ5rs/edit)
 
